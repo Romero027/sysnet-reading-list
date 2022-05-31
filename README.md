@@ -4,13 +4,13 @@ This repository contains a list of papers on various topics (that I am currently
 
 ## Index 
 
-* [Middleboxs and NFV](#middleboxes-and-nfv)
-* [eBPF and XDP](#ebpf-and-xdp)
-* [Transport Protocol](#transport-protocol)
-* [Microservice and Service Mesh](#microservice-and-service-mesh)
-* [Network Stack](#network-stack)
-* [Internet Architecture](#internet-architecture)
-* [Container Networking](#container-networking)
+* [**Middleboxs and NFV**](#middleboxes-and-nfv)
+* [**eBPF and XDP**](#ebpf-and-xdp)
+* [**Transport Protocol**](#transport-protocol)
+* [**Microservice and Service Mesh**](#microservice-and-service-mesh)
+* [**Network Stack**](#network-stack)
+* [**Internet Architecture**](#internet-architecture)
+* [**Container Networking**](#container-networking)
 
 ***
 
@@ -44,8 +44,14 @@ This repository contains a list of papers on various topics (that I am currently
 - [**Leveraging Service Meshes as a New Network Layer**](https://dl.acm.org/doi/abs/10.1145/3484266.3487379), _HotNets '21_
 
 ### Network Stack
+- [**mTCP: a Highly Scalable User-level TCP Stack for Multicore Systems**](https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/jeong), _NSDI '14_
 - [**Network stack specialization for performance**](https://dl.acm.org/doi/10.1145/2619239.2626311), _SIGCOMM '14_
+- [**IX: A Protected Dataplane Operating System for High Throughput and Low Latency**](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/belay), _OSDI '14
+- [**Arrakis: The Operating System is the Control Plane**](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter), _OSDI '14_
 - [**RSS++: load and state-aware receive side scaling**](https://dl.acm.org/doi/10.1145/3359989.3365412), _CoNEXT '19_
+- [**TAS: TCP Acceleration as an OS Service**](https://dl.acm.org/doi/10.1145/3302424.3303985), _SIGCOMM '19_
+- [**Snap: a Microkernel Approach to Host Networking**](https://dl.acm.org/doi/10.1145/3341301.3359657), SOSP '19_
+- [**SocksDirect: Datacenter Sockets can be Fast and Compatible**](https://dl.acm.org/doi/10.1145/3341302.3342071), _SIGCOMM '19_
 - [**Understanding Host Network Stack Overheads**](https://dl.acm.org/doi/abs/10.1145/3452296.3472888), _SIGCOMM '20_
 
 ### Internet Architecture
