@@ -10,7 +10,7 @@ This repository contains a list of papers on various topics (that I am currently
 * [**Microservice and Service Mesh**](#microservice-and-service-mesh)
 * [**Network Stack**](#network-stack)
 * [**Internet Architecture**](#internet-architecture)
-* [**Container Networking**](#container-networking)
+* [**Container Networking**](#container)
 
 ## Reading List
 
@@ -40,6 +40,7 @@ This repository contains a list of papers on various topics (that I am currently
 
 ### Microservice and Service Mesh
 - [**Service Fabric: A Distributed Platform for Building Microservices in the Cloud**](https://dl.acm.org/doi/10.1145/3190508.3190546), _EuroSys '18_
+- [**Overload Control for Scaling WeChat Microservices**](https://dl.acm.org/doi/10.1145/3267809.3267823), _SoCC '18_
 - [**An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud & Edge Systems**](https://dl.acm.org/doi/10.1145/3297858.3304013), _ASPLOS '19_
 - [**PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services**](https://dl.acm.org/doi/pdf/10.1145/3297858.3304005), _ASPLOS '19_
 - [**E3: Energy-Efficient Microservices on SmartNIC-Accelerated Servers**](https://www.usenix.org/conference/atc19/presentation/liu-ming), _ATC '19_
@@ -68,8 +69,9 @@ This repository contains a list of papers on various topics (that I am currently
 - [**XIA: Efficient Support for Evolvable Internetworking**](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/han_dongsu_xia), _NSDI '12_
 - [**Serval: An End-Host Stack for Service-Centric Networking**](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/nordstrom), _NSDI '12_
 
-### Container Networking
+### Container
 - [**Slipstream: Automatic Interprocess Communication Optimization**](https://www.usenix.org/conference/atc15/technical-session/presentation/dietz), _ATC '15_
+- [**Cntr: Lightweight OS Containers**](https://www.usenix.org/conference/atc18/presentation/thalheim), _ATC '18_
 - [**Iron: Isolating Network-based CPU in Container Environments**](https://www.usenix.org/conference/nsdi18/presentation/khalid), _NSDI '18_
 - [**FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds**](https://www.usenix.org/conference/nsdi19/presentation/kim), _NSDI '19_
 - [**Slim: OS Kernel Support for a Low-Overhead Container Overlay Network**](https://www.usenix.org/conference/nsdi19/presentation/zhuo), _NSDI '19_
