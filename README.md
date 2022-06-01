@@ -21,6 +21,7 @@ This repository contains a list of papers on various topics (that I am currently
 - [**ClickOS and the Art of Network Function Virtualization**](https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/martins), _NSDI'14_
 - [**mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed), _NSDI'17_
 - [**ClickNF: a Modular Stack for Custom Network Functions**](https://www.usenix.org/conference/atc18/presentation/gallo), _ATC '18_
+- [**Performance Contracts for Software Network Functions**](https://www.usenix.org/conference/nsdi19/presentation/iyer), _NSDI '19_
 - [**Programming Network Stack for Middleboxes with Rubik**](https://www.usenix.org/conference/nsdi21/presentation/li), _NSDI '21_
 
 ### eBPF and XDP
@@ -60,6 +61,7 @@ This repository contains a list of papers on various topics (that I am currently
 - [**Network stack specialization for performance**](https://dl.acm.org/doi/10.1145/2619239.2626311), _SIGCOMM '14_
 - [**IX: A Protected Dataplane Operating System for High Throughput and Low Latency**](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/belay), _OSDI '14
 - [**Arrakis: The Operating System is the Control Plane**](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter), _OSDI '14_
+- [**StackMap: Low-Latency Networking with the OS Stack and Dedicated NICs**](https://www.usenix.org/conference/atc16/technical-sessions/presentation/yasukata), _ATC '16_
 - [**RSS++: load and state-aware receive side scaling**](https://dl.acm.org/doi/10.1145/3359989.3365412), _CoNEXT '19_
 - [**TAS: TCP Acceleration as an OS Service**](https://dl.acm.org/doi/10.1145/3302424.3303985), _SIGCOMM '19_
 - [**Snap: a Microkernel Approach to Host Networking**](https://dl.acm.org/doi/10.1145/3341301.3359657), SOSP '19_
