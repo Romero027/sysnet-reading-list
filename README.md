@@ -19,6 +19,7 @@ This repository contains a list of papers on various topics (that I am currently
 - [**Middleboxes No Longer Considered Harmful**](http://nms.lcs.mit.edu/papers/doa-osdi04.pdf), _OSDI '04_
 - [**Design and Implementation of a Consolidated Middlebox Architecture**](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/sekar), _NSDI '12_
 - [**ClickOS and the Art of Network Function Virtualization**](https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/martins), _NSDI'14_
+- [**NetBricks: Taking the V out of NFV**](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda), _OSDI '16_
 - [**mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed), _NSDI'17_
 - [**ClickNF: a Modular Stack for Custom Network Functions**](https://www.usenix.org/conference/atc18/presentation/gallo), _ATC '18_
 - [**Performance Contracts for Software Network Functions**](https://www.usenix.org/conference/nsdi19/presentation/iyer), _NSDI '19_
