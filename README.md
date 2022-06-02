@@ -83,3 +83,4 @@
 - [**Slim: OS Kernel Support for a Low-Overhead Container Overlay Network**](https://www.usenix.org/conference/nsdi19/presentation/zhuo), _NSDI '19_
 - [**Particle: Ephemeral Endpoints for Serverless Networking**](https://dl.acm.org/doi/10.1145/3419111.3421275), _SoCC '20_
 - [**Parallelizing packet processing in container overlay networks**](https://dl.acm.org/doi/10.1145/3447786.3456241), _EuroSys '21_
+- [**Starlight: Fast Container Provisioning on the Edge and over the WAN**](https://www.usenix.org/conference/nsdi22/presentation/chen-jun-lin), _NSDI '22_
