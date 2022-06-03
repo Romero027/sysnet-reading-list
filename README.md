@@ -24,8 +24,7 @@
 - [**Metron: NFV Service Chains at the True Speed of the Underlying Hardware**](https://www.usenix.org/conference/nsdi18/presentation/katsikas), _NSDI'18_
 - [**ClickNF: a Modular Stack for Custom Network Functions**](https://www.usenix.org/conference/atc18/presentation/gallo), _ATC '18_
 - [**Performance Contracts for Software Network Functions**](https://www.usenix.org/conference/nsdi19/presentation/iyer), _NSDI '19_
-- [**Gallium: Automated Software Middlebox Offloading to Programmable Switches
-**](https://dl.acm.org/doi/abs/10.1145/3387514.3405869), SIGCOMM '20_
+- [**Gallium: Automated Software Middlebox Offloading to Programmable Switches**](https://dl.acm.org/doi/abs/10.1145/3387514.3405869), _SIGCOMM '20_
 - [**Programming Network Stack for Middleboxes with Rubik**](https://www.usenix.org/conference/nsdi21/presentation/li), _NSDI '21_
 
 ### eBPF and XDP
