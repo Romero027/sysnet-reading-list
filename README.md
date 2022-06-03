@@ -46,6 +46,7 @@
 
 ### Microservice and Service Mesh
 - [**Service Fabric: A Distributed Platform for Building Microservices in the Cloud**](https://dl.acm.org/doi/10.1145/3190508.3190546), _EuroSys '18_
+  - A description of the Azure SF design, with a focus on how they solved hard consistency and distributed systems problems.
 - [**Overload Control for Scaling WeChat Microservices**](https://dl.acm.org/doi/10.1145/3267809.3267823), _SoCC '18_
 - [**µTune: Auto-Tuned Threading for OLDI Microservices**](https://www.usenix.org/conference/osdi18/presentation/sriraman), _OSDI '18_
 - [**An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud & Edge Systems**](https://dl.acm.org/doi/10.1145/3297858.3304013), _ASPLOS '19_
@@ -59,6 +60,7 @@
 - [**Sinan: ML-Based and QoS-Aware Resource Management for Cloud Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446693), _ASPLOS '21_
 - [**Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis**](https://dl.acm.org/doi/pdf/10.1145/3472883.3487003), _SoCC '21_
 - [**Leveraging Service Meshes as a New Network Layer**](https://dl.acm.org/doi/abs/10.1145/3484266.3487379), _HotNets '21_
+  - Highlighted service mesh as an abstraction and discussed some use cases and challenges of SM.
 - [**DeepRest: Deep Resource Estimation for Interactive Microservices**](https://dl.acm.org/doi/pdf/10.1145/3492321.3519564), _EuroSys '22_
 
 ### Network Stack
