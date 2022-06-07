@@ -28,6 +28,7 @@
 - [**Gallium: Automated Software Middlebox Offloading to Programmable Switches**](https://dl.acm.org/doi/abs/10.1145/3387514.3405869), _SIGCOMM '20_
 - [**Contention-Aware Performance Prediction For Virtualized Network Functions**](https://dl.acm.org/doi/abs/10.1145/3387514.3405868), _SIGCOMM '20_
 - [**Programming Network Stack for Middleboxes with Rubik**](https://www.usenix.org/conference/nsdi21/presentation/li), _NSDI '21_
+  - Designed a language for programming middleboxes with an emphasis on supporting various transport protocols and flexible network stack hierarchy. 
 
 ### eBPF and XDP
 - [**The eXpress data path: fast programmable packet processing in the operating system kernel**](https://dl.acm.org/doi/10.1145/3281411.3281443), _CoNEXT '18_
