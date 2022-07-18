@@ -66,6 +66,7 @@
   - Highlighted service mesh as an abstraction and discussed some use cases and challenges of SM.
 - [**DeepRest: Deep Resource Estimation for Interactive Microservices**](https://dl.acm.org/doi/pdf/10.1145/3492321.3519564), _EuroSys '22_
 - [**CRISP: Critical Path Analysis of Large-Scale Microservice Architectures**](https://www.usenix.org/conference/atc22/presentation/zhang-zhizhou), _ATC '22_
+  - A production-grade microservice tracing system for critical path analysis (CPA), built on top of Jaeger. 
 
 ### Network Stack
 - [**netmap: A Novel Framework for Fast Packet I/O**](https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo), _ATC '12_
