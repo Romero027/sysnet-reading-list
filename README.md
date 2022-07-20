@@ -7,6 +7,7 @@
 * [**Transport Protocol**](#transport-protocol)
 * [**Microservice and Service Mesh**](#microservice-and-service-mesh)
 * [**Network Stack**](#network-stack)
+* [**Workload Interference**](#workload-interference)
 * [**Internet Architecture**](#internet-architecture)
 * [**Container Networking**](#container)
 
@@ -88,9 +89,19 @@
 - [**The nanoPU: A Nanosecond Network Stack for Datacenters**](https://www.usenix.org/conference/osdi21/presentation/ibanez), _OSDI '21_
 - [**How to diagnose nanosecond network latencies in rich end-host stacks**](https://www.usenix.org/conference/nsdi22/presentation/haecki), _NSDI '22_
 
+### Workload Interference
+- [**Reconciling High Server Utilization and Sub-millisecond Quality-of-Service**](https://dl.acm.org/doi/10.1145/2592798.2592821), _EuroSys '14_
+  - Co-location leads to increases in queuing delay, scheduling delay, and thread load imbalance. Addresses interference online via re-provisioning and scheduling.
+- [**PicNIC: predictable virtualized NIC**](https://dl.acm.org/doi/10.1145/3341302.3342093), _SIGCOMM '19_
+  - Characterize how performance isolation can break in virtualized network stack in terms of network bandwidth and network stack processing rate. Provides an abstraction and construct based on bandwidth, latency, and loss rate to detect isolation breakdown and enforce isolation.  
+- [**Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads**](https://www.usenix.org/conference/nsdi19/presentation/ousterhout), _NSDI '19_
+- [**Caladan: Mitigating Interference at Microsecond Timescales**](https://www.usenix.org/conference/osdi20/presentation/fried), _OSDI '20_
+  - Uses a set of control signals and corresponding actions to detection and respond to interference over microsecond timescales.  
+
+
 ### Internet Architecture
 - [**Architectural considerations for a new generation of protocols**](https://dl.acm.org/doi/10.1145/99517.99553), _SIGCOMM CCR '90_
-- [**A Data-Oriented (and Beyond) Network Architecture**](https://dl.acm.org/doi/pdf/10.1145/1282380.1282402), SIGCOMM '07_
+- [**A Data-Oriented (and Beyond) Network Architecture**](https://dl.acm.org/doi/pdf/10.1145/1282380.1282402), _SIGCOMM '07_
 - [**Networking named content**](https://dl.acm.org/doi/10.1145/1658939.1658941), _CoNEXT '12_
 - [**XIA: Efficient Support for Evolvable Internetworking**](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/han_dongsu_xia), _NSDI '12_
 - [**Serval: An End-Host Stack for Service-Centric Networking**](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/nordstrom), _NSDI '12_
