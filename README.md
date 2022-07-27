@@ -99,6 +99,9 @@
 - [**Reconciling High Server Utilization and Sub-millisecond Quality-of-Service**](https://dl.acm.org/doi/10.1145/2592798.2592821), _EuroSys '14_
   - Co-location leads to increases in queuing delay, scheduling delay, and thread load imbalance. Addresses interference online via re-provisioning and scheduling.
 - [**Heracles: Improving resource efficiency at scale**](https://ieeexplore.ieee.org/document/7284086), _ISCA '15_
+  - Manage workload (LC+BE) colocations via an online controller that monitors latency and resource usage and manages the isolation mechanism for different resources.
+- [**PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services**](https://dl.acm.org/doi/10.1145/3297858.3304005), _ASPLOS '19_ 
+  - Online monitoring that detects QoS violation in O(100ms) and boosts the resource allocation of victim.  
 - [**PicNIC: predictable virtualized NIC**](https://dl.acm.org/doi/10.1145/3341302.3342093), _SIGCOMM '19_
   - Characterize how performance isolation can break in virtualized network stack in terms of network bandwidth and network stack processing rate. Provides an abstraction and construct based on bandwidth, latency, and loss rate to detect isolation breakdown and enforce isolation.  
 - [**Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads**](https://www.usenix.org/conference/nsdi19/presentation/ousterhout), _NSDI '19_
