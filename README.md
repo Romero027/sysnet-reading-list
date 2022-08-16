@@ -94,8 +94,10 @@
   - Profiling applications performance in a standalone mode and using that to provide a baseline target when consolidating them onto a shared host.  
 - [**Bubble-up: Increasing utilization in modern warehouse scale computers via sensible co-locations**](https://ieeexplore.ieee.org/document/7851476), _MICRO '11_
   - Each application is profiled 1) using a memory antagonist to obtain its (memory) sensitivity curve and 2) to measure the pressure on the memory it generates.  
-- [**Bubble-Flux: Precise Online QoS Management for Increased Utilization in Warehouse Scale Computers**](https://web.eecs.umich.edu/~profmars/wp-content/papercite-data/pdf/yang13isca.pdf), _ISCA '13_
-  - Similar to Bubble-up, but the profiling is done online  
+- [**DeepDive: Transparently Identifying and Managing Performance Interference in Virtualized Environments**](https://www.usenix.org/conference/atc13/technical-sessions/presentation/novakovi), _ATC '13_
+  - Detect interference via differential low-level metrics (see table 1), validate the interference and identify the interfering resource by running the victim in isolation, and mitigate interference via migration. 
+- [**Reconciling High Server Utilization and Sub-millisecond Quality-of-Service**](https://dl.acm.org/doi/10.1145/2592798.2592821), _EuroSys '14_
+  - Co-location leads to increases in queuing delay, scheduling delay, and thread load imbalance. Addresses interference online via re-provisioning and scheduling.
 - [**Reconciling High Server Utilization and Sub-millisecond Quality-of-Service**](https://dl.acm.org/doi/10.1145/2592798.2592821), _EuroSys '14_
   - Co-location leads to increases in queuing delay, scheduling delay, and thread load imbalance. Addresses interference online via re-provisioning and scheduling.
 - [**Heracles: Improving resource efficiency at scale**](https://ieeexplore.ieee.org/document/7284086), _ISCA '15_
@@ -107,6 +109,8 @@
 - [**Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads**](https://www.usenix.org/conference/nsdi19/presentation/ousterhout), _NSDI '19_
 - [**Caladan: Mitigating Interference at Microsecond Timescales**](https://www.usenix.org/conference/osdi20/presentation/fried), _OSDI '20_
   - Uses a set of control signals and corresponding actions to detection and respond to interference over microsecond timescales.  
+- [**FIRM: An Intelligent Fine-Grained Resource Management Framework for SLO-Oriented Microservices**](https://www.usenix.org/conference/osdi20/presentation/qiu), _OSDI '20_
+  - Use online telemetry data (resource usage and latency) and offline learned models to detection and localize microservice that cause SLO violations and mitigate violation via dynamic re-provisioning.
 
 
 ### Internet Architecture
