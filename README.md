@@ -92,16 +92,23 @@
 ### Workload Interference
 - [**Q-Clouds: Managing Performance Interference Effects for QoS-Aware Clouds**](https://dl.acm.org/doi/abs/10.1145/1755913.1755938), _EuroSys '10_
   - Profiling applications performance in a standalone mode and using that to provide a baseline target when consolidating them onto a shared host.  
+- [**Cuanta: quantifying effects of shared on-chip resource interference for consolidated virtual machines**](https://dl.acm.org/doi/10.1145/2038916.2038938), _SoCC '11_
+  - Introduced a cache loader micro-benchmark to profile application performance under varying cache-usage pressure and use the profile to predict the impact of cache interference among consolidated workloads  
 - [**Bubble-up: Increasing utilization in modern warehouse scale computers via sensible co-locations**](https://ieeexplore.ieee.org/document/7851476), _MICRO '11_
   - Each application is profiled 1) using a memory antagonist to obtain its (memory) sensitivity curve and 2) to measure the pressure on the memory it generates.  
 - [**DeepDive: Transparently Identifying and Managing Performance Interference in Virtualized Environments**](https://www.usenix.org/conference/atc13/technical-sessions/presentation/novakovi), _ATC '13_
   - Detect interference via differential low-level metrics (see table 1), validate the interference and identify the interfering resource by running the victim in isolation, and mitigate interference via migration. 
-- [**Reconciling High Server Utilization and Sub-millisecond Quality-of-Service**](https://dl.acm.org/doi/10.1145/2592798.2592821), _EuroSys '14_
-  - Co-location leads to increases in queuing delay, scheduling delay, and thread load imbalance. Addresses interference online via re-provisioning and scheduling.
+- [**Toward Predictable Performance in Software Packet-Processing Platforms**](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/dobrescu), _NSDI '12_
+  - Profile each NF’s cache ref/sec running alone and its performance drop curve when collocate with a synthetic antagonist. Predict the performance drop with these profiles. 
+- [**Bobtail: Avoiding Long Tails in the Cloud**](https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/xu_yunjing), _NSDI '13_
+- [**CPI2 : CPU performance isolation for shared compute clusters**](https://dl.acm.org/doi/10.1145/2465351.2465388), _EuroSys '13_
+  - Uses cycles-per-instruction (CPI) as metrics to detect workload interference and identify perpetrators (and address the interference by throttling). Key takeaway: CPI correlates with application performance and CPI is a stable metrics.   
 - [**Reconciling High Server Utilization and Sub-millisecond Quality-of-Service**](https://dl.acm.org/doi/10.1145/2592798.2592821), _EuroSys '14_
   - Co-location leads to increases in queuing delay, scheduling delay, and thread load imbalance. Addresses interference online via re-provisioning and scheduling.
 - [**Heracles: Improving resource efficiency at scale**](https://ieeexplore.ieee.org/document/7284086), _ISCA '15_
   - Manage workload (LC+BE) colocations via an online controller that monitors latency and resource usage and manages the isolation mechanism for different resources.
+- [**PerfIso: Performance Isolation for Commercial Latency-Sensitive Services**](https://www.usenix.org/conference/atc18/presentation/iorgulescu), _ATC '18_
+  - Described a production system (Microsoft Bing) for performance isolation  
 - [**PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services**](https://dl.acm.org/doi/10.1145/3297858.3304005), _ASPLOS '19_ 
   - Online monitoring that detects QoS violation in O(100ms) and boosts the resource allocation of victim.  
 - [**PicNIC: predictable virtualized NIC**](https://dl.acm.org/doi/10.1145/3341302.3342093), _SIGCOMM '19_
