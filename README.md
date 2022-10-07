@@ -40,6 +40,7 @@
 - [**BMC: Accelerating Memcached using Safe In-kernel Caching and Pre-stack Processing**](https://www.usenix.org/conference/nsdi21/presentation/ghigoff), _NSDI '21_
 - [**Synthesizing Safe and Efficient Kernel Extensions for Packet Processing**](https://dl.acm.org/doi/pdf/10.1145/3452296.3472929), _SIGCOMM '21_
 - [**Syrup: User-Defined Scheduling Across the Stack**](https://dl.acm.org/doi/pdf/10.1145/3477132.3483548), _SOSP '21_
+- [**XRP: In-Kernel Storage Functions with eBPF**](https://www.usenix.org/conference/osdi22/presentation/zhong), _OSDI '22_
 
 ### Transport Protocol
 - [**The QUIC Transport Protocol: Design and Internet-Scale Deployment**](https://dl.acm.org/doi/10.1145/3484266.3487382), _SIGCOMM '17_
