@@ -19,6 +19,7 @@
 - [**Making Middleboxes Someone Else’s Problem: Network Processing as a Cloud Service**](https://dl.acm.org/doi/10.1145/2342356.2342359), _SIGCOMM '12_
 - [**Design and Implementation of a Consolidated Middlebox Architecture**](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/sekar), _NSDI '12_
 - [**ClickOS and the Art of Network Function Virtualization**](https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/martins), _NSDI'14_
+- [**Enforcing Network-Wide Policies in the Presence of Dynamic Middlebox Actions using FlowTags**](https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/fayazbakhsh), _NSDI'14_
 - [**NetBricks: Taking the V out of NFV**](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda), _OSDI '16_
 - [**Paving the Way for NFV: Simplifying Middlebox Modifications Using StateAlyzr**](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/khalid), _NSDI'16_
 - [**mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed), _NSDI'17_
