@@ -83,7 +83,7 @@
 - [**StackMap: Low-Latency Networking with the OS Stack and Dedicated NICs**](https://www.usenix.org/conference/atc16/technical-sessions/presentation/yasukata), _ATC '16_
 - [**ModNet: A Modular Approach to Network Stack Extension**](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/pathak), NSDI '15_
 - [**RSS++: load and state-aware receive side scaling**](https://dl.acm.org/doi/10.1145/3359989.3365412), _CoNEXT '19_
-- [**TAS: TCP Acceleration as an OS Service**](https://dl.acm.org/doi/10.1145/3302424.3303985), _SIGCOMM '19_
+- [**TAS: TCP Acceleration as an OS Service**](https://dl.acm.org/doi/10.1145/3302424.3303985), _EuroSys '19_
   - Accelates TCP stack by splitting the stack into a "fast" data path (for data transport of established connections) and a control plane (for connection and context management, congestion control etc.).
 - [**Snap: a Microkernel Approach to Host Networking**](https://dl.acm.org/doi/10.1145/3341301.3359657), SOSP '19_
 - [**SocksDirect: Datacenter Sockets can be Fast and Compatible**](https://dl.acm.org/doi/10.1145/3341302.3342071), _SIGCOMM '19_
