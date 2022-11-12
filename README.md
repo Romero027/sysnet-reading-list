@@ -66,6 +66,8 @@
 - [**Sage: Practical and Scalable ML-Driven Performance Debugging in Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446700), _ASPLOS '21_
 - [**Sinan: ML-Based and QoS-Aware Resource Management for Cloud Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446693), _ASPLOS '21_
 - [**Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis**](https://dl.acm.org/doi/pdf/10.1145/3472883.3487003), _SoCC '21_
+- [**SHOWAR: Right-Sizing And Efficient Scheduling of Microservices**](https://dl.acm.org/doi/abs/10.1145/3472883.3486999), _SoCC '21_
+- [**Service-Level Fault Injection Testing**](https://dl.acm.org/doi/abs/10.1145/3472883.3487005), _SoCC '21_
 - [**Leveraging Service Meshes as a New Network Layer**](https://dl.acm.org/doi/abs/10.1145/3484266.3487379), _HotNets '21_
   - Highlighted service mesh as an abstraction and discussed some use cases and challenges of SM.
 - [**DeepRest: Deep Resource Estimation for Interactive Microservices**](https://dl.acm.org/doi/pdf/10.1145/3492321.3519564), _EuroSys '22_
