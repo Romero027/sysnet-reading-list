@@ -102,11 +102,12 @@
   - Introduced a cache loader micro-benchmark to profile application performance under varying cache-usage pressure and use the profile to predict the impact of cache interference among consolidated workloads  
 - [**Bubble-up: Increasing utilization in modern warehouse scale computers via sensible co-locations**](https://ieeexplore.ieee.org/document/7851476), _MICRO '11_
   - Each application is profiled 1) using a memory antagonist to obtain its (memory) sensitivity curve and 2) to measure the pressure on the memory it generates.  
-- [**DeepDive: Transparently Identifying and Managing Performance Interference in Virtualized Environments**](https://www.usenix.org/conference/atc13/technical-sessions/presentation/novakovi), _ATC '13_
-  - Detect interference via differential low-level metrics (see table 1), validate the interference and identify the interfering resource by running the victim in isolation, and mitigate interference via migration. 
 - [**Toward Predictable Performance in Software Packet-Processing Platforms**](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/dobrescu), _NSDI '12_
   - Profile each NF’s cache ref/sec running alone and its performance drop curve when collocate with a synthetic antagonist. Predict the performance drop with these profiles. 
+ - [**DeepDive: Transparently Identifying and Managing Performance Interference in Virtualized Environments**](https://www.usenix.org/conference/atc13/technical-sessions/presentation/novakovi), _ATC '13_
+  - Detect interference via differential low-level metrics (see table 1), validate the interference and identify the interfering resource by running the victim in isolation, and mitigate interference via migration. 
 - [**Bobtail: Avoiding Long Tails in the Cloud**](https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/xu_yunjing), _NSDI '13_
+- [**Paragon: QoS-Aware Scheduling for Heterogeneous Datacenters**](https://dl.acm.org/doi/10.1145/2451116.2451125), _ASPLOS '13_
 - [**CPI2 : CPU performance isolation for shared compute clusters**](https://dl.acm.org/doi/10.1145/2465351.2465388), _EuroSys '13_
   - Uses cycles-per-instruction (CPI) as metrics to detect workload interference and identify perpetrators (and address the interference by throttling). Key takeaway: CPI correlates with application performance and CPI is a stable metrics.   
 - [**Reconciling High Server Utilization and Sub-millisecond Quality-of-Service**](https://dl.acm.org/doi/10.1145/2592798.2592821), _EuroSys '14_
