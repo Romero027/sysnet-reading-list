@@ -52,6 +52,7 @@
 
 
 ### Microservice and Service Mesh
+- [**Verification in the Age of Microservices**](https://dl.acm.org/doi/10.1145/3102980.3102986), _HotOS '17_
 - [**Service Fabric: A Distributed Platform for Building Microservices in the Cloud**](https://dl.acm.org/doi/10.1145/3190508.3190546), _EuroSys '18_
   - A description of the Azure SF design, with a focus on how they solved hard consistency and distributed systems problems.
 - [**Overload Control for Scaling WeChat Microservices**](https://dl.acm.org/doi/10.1145/3267809.3267823), _SoCC '18_
