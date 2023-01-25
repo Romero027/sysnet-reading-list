@@ -84,14 +84,14 @@
 - [**MegaPipe: A New Programming Interface for Scalable Network I/O**](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/han), _OSDI'12_
 - [**mTCP: a Highly Scalable User-level TCP Stack for Multicore Systems**](https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/jeong), _NSDI '14_
 - [**Network stack specialization for performance**](https://dl.acm.org/doi/10.1145/2619239.2626311), _SIGCOMM '14_
-- [**IX: A Protected Dataplane Operating System for High Throughput and Low Latency**](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/belay), _OSDI '14
+- [**IX: A Protected Dataplane Operating System for High Throughput and Low Latency**](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/belay), _OSDI '14_
 - [**Arrakis: The Operating System is the Control Plane**](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter), _OSDI '14_
 - [**StackMap: Low-Latency Networking with the OS Stack and Dedicated NICs**](https://www.usenix.org/conference/atc16/technical-sessions/presentation/yasukata), _ATC '16_
-- [**ModNet: A Modular Approach to Network Stack Extension**](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/pathak), NSDI '15_
+- [**ModNet: A Modular Approach to Network Stack Extension**](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/pathak), _NSDI '15_
 - [**RSS++: load and state-aware receive side scaling**](https://dl.acm.org/doi/10.1145/3359989.3365412), _CoNEXT '19_
 - [**TAS: TCP Acceleration as an OS Service**](https://dl.acm.org/doi/10.1145/3302424.3303985), _EuroSys '19_
   - Accelates TCP stack by splitting the stack into a "fast" data path (for data transport of established connections) and a control plane (for connection and context management, congestion control etc.).
-- [**Snap: a Microkernel Approach to Host Networking**](https://dl.acm.org/doi/10.1145/3341301.3359657), SOSP '19_
+- [**Snap: a Microkernel Approach to Host Networking**](https://dl.acm.org/doi/10.1145/3341301.3359657), _SOSP '19_
 - [**SocksDirect: Datacenter Sockets can be Fast and Compatible**](https://dl.acm.org/doi/10.1145/3341302.3342071), _SIGCOMM '19_
 - [**Understanding Host Network Stack Overheads**](https://dl.acm.org/doi/abs/10.1145/3452296.3472888), _SIGCOMM '20_
 - [**The nanoPU: A Nanosecond Network Stack for Datacenters**](https://www.usenix.org/conference/osdi21/presentation/ibanez), _OSDI '21_
