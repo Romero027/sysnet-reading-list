@@ -77,7 +77,7 @@
   - Uber's production-grade microservice tracing system for critical path analysis (CPA), built on top of Jaeger. 
 - [**Executing Microservice Applications on Serverless, Correctly**](https://angelhof.github.io/files/papers/mu2sls-2023-popl.pdf), _POPL '23_
 
-### Network Stack
+### Network Stack and RPC optimization
 - [**netmap: A Novel Framework for Fast Packet I/O**](https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo), _ATC '12_
 - [**Chronos: Predictable Low Latency for Data Center Applications**](https://dl.acm.org/doi/10.1145/2391229.2391238), _SoCC'12_
 - [**Improving Network Connection Locality on Multicore Systems**](https://dl.acm.org/doi/10.1145/2168836.2168870), _EuroSys'12_
