@@ -64,6 +64,7 @@
 - [**Autopilot: workload autoscaling at Google**](https://dl.acm.org/doi/pdf/10.1145/3342195.3387524), _EuroSys '20_
 - [**FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices**](https://www.usenix.org/conference/osdi20/presentation/qiu), _OSDI '20_
 - [**Accelerometer: Understanding Acceleration Opportunities for Data Center Overheads at Hyperscale**](https://dl.acm.org/doi/10.1145/3373376.3378450), _ASPLOS '20_
+  - A study on how microservices spend their CPU cycles. It shows that, within Facebook, microservices spend only a small fraction of their execution time service core application logic, and signigicant cycles on orchestration work (e.g., compression, serialization, and I/O processing).
 - [**Nightcore: Efficient and Scalable Serverless Computing for Latency-Sensitive, Interactive Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446701), _ASPLOS '21_
 - [**Sage: Practical and Scalable ML-Driven Performance Debugging in Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446700), _ASPLOS '21_
 - [**Sinan: ML-Based and QoS-Aware Resource Management for Cloud Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446693), _ASPLOS '21_
