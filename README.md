@@ -25,6 +25,7 @@
 - [**NetBricks: Taking the V out of NFV**](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda), _OSDI '16_
 - [**Paving the Way for NFV: Simplifying Middlebox Modifications Using StateAlyzr**](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/khalid), _NSDI'16_
 - [**mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed), _NSDI'17_
+- [**NFP: Enabling Network Function Parallelism in NFV**](https://dl.acm.org/doi/10.1145/3098822.3098826), _SIGCOMM'17_
 - [**Metron: NFV Service Chains at the True Speed of the Underlying Hardware**](https://www.usenix.org/conference/nsdi18/presentation/katsikas), _NSDI'18_
 - [**Microboxes: High Performance NFV with Customizable, Asynchronous TCP Stacks and Dynamic Subscriptions**](https://dl.acm.org/doi/pdf/10.1145/3230543.3230563), _SIGCOMM '18_
 - [**ClickNF: a Modular Stack for Custom Network Functions**](https://www.usenix.org/conference/atc18/presentation/gallo), _ATC '18_
