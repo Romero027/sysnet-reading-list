@@ -35,6 +35,10 @@
   - Designed a language for programming middleboxes with an emphasis on supporting various transport protocols and flexible network stack hierarchy. 
 - [**Performance Interfaces for Network Functions**](https://www.usenix.org/conference/nsdi22/presentation/iyer), _NSDI '22_
 
+### Middleboxs and NFV
+- [**Switches for HIRE: Resource Scheduling for Data Center In-Network Computing**](https://dl.acm.org/doi/abs/10.1145/3445814.3446760), _ASPLOS '21_
+- [**NetRPC: Enabling In-Network Computation in Remote Procedure Calls**](https://www.usenix.org/conference/nsdi23/presentation/zhao-bohan), _NSDI '23_
+
 ### eBPF and XDP
 - [**The eXpress data path: fast programmable packet processing in the operating system kernel**](https://dl.acm.org/doi/10.1145/3281411.3281443), _CoNEXT '18_
 - [**hXDP: Efficient Software Packet Processing on FPGA NICs**](https://www.usenix.org/conference/osdi20/presentation/brunella), _OSDI '20_
