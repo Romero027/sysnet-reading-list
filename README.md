@@ -26,20 +26,31 @@
 - [**NetBricks: Taking the V out of NFV**](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda), _OSDI '16_
 - [**Paving the Way for NFV: Simplifying Middlebox Modifications Using StateAlyzr**](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/khalid), _NSDI'16_
 - [**mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed), _NSDI'17_
+- [**Stateless Network Functions: Breaking the Tight Coupling of State and Processing
+**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/kablan), _NSDI'17_
 - [**NFP: Enabling Network Function Parallelism in NFV**](https://dl.acm.org/doi/10.1145/3098822.3098826), _SIGCOMM'17_
 - [**Metron: NFV Service Chains at the True Speed of the Underlying Hardware**](https://www.usenix.org/conference/nsdi18/presentation/katsikas), _NSDI'18_
+- [**Elastic Scaling of Stateful Network Functions**](https://www.usenix.org/conference/nsdi18/presentation/woo), _NSDI'18_
 - [**Microboxes: High Performance NFV with Customizable, Asynchronous TCP Stacks and Dynamic Subscriptions**](https://dl.acm.org/doi/pdf/10.1145/3230543.3230563), _SIGCOMM '18_
 - [**ClickNF: a Modular Stack for Custom Network Functions**](https://www.usenix.org/conference/atc18/presentation/gallo), _ATC '18_
+- [**FlowBlaze: Stateful Packet Processing in Hardware**](https://www.usenix.org/conference/nsdi19/presentation/pontarelli), _NSDI '19_
 - [**Performance Contracts for Software Network Functions**](https://www.usenix.org/conference/nsdi19/presentation/iyer), _NSDI '19_
 - [**Gallium: Automated Software Middlebox Offloading to Programmable Switches**](https://dl.acm.org/doi/abs/10.1145/3387514.3405869), _SIGCOMM '20_
+- [**TEA: Enabling State-Intensive Network Functions on Programmable Switches**](https://dl.acm.org/doi/10.1145/3387514.3405855), _SIGCOMM '20_
 - [**Contention-Aware Performance Prediction For Virtualized Network Functions**](https://dl.acm.org/doi/abs/10.1145/3387514.3405868), _SIGCOMM '20_
 - [**Programming Network Stack for Middleboxes with Rubik**](https://www.usenix.org/conference/nsdi21/presentation/li), _NSDI '21_
   - Designed a language for programming middleboxes with an emphasis on supporting various transport protocols and flexible network stack hierarchy. 
 - [**Performance Interfaces for Network Functions**](https://www.usenix.org/conference/nsdi22/presentation/iyer), _NSDI '22_
+- [**A High-Speed Stateful Packet Processing Approach for Tbps Programmable Switches**](https://www.usenix.org/conference/nsdi23/presentation/scazzariello), _NSDI '23_
 
-### Middleboxs and NFV
+### Network Abstraction / Language
+- [**Abstractions for network update**](https://dl.acm.org/doi/10.1145/2342356.2342427), _SIGCOMM '12_
+- [**SNAP: Stateful Network-Wide Abstractions for Packet Processing**](https://dl.acm.org/doi/10.1145/2934872.2934892), _SIGCOMM '16_
+- [**Lyra: A Cross-Platform Language and Compiler for Data Plane Programming on Heterogeneous ASICs**](https://dl.acm.org/doi/10.1145/3387514.3405879), _SIGCOMM '20_
+
+<!-- ### Middleboxs and NFV
 - [**Switches for HIRE: Resource Scheduling for Data Center In-Network Computing**](https://dl.acm.org/doi/abs/10.1145/3445814.3446760), _ASPLOS '21_
-- [**NetRPC: Enabling In-Network Computation in Remote Procedure Calls**](https://www.usenix.org/conference/nsdi23/presentation/zhao-bohan), _NSDI '23_
+- [**NetRPC: Enabling In-Network Computation in Remote Procedure Calls**](https://www.usenix.org/conference/nsdi23/presentation/zhao-bohan), _NSDI '23_ -->
 
 ### eBPF and XDP
 - [**The eXpress data path: fast programmable packet processing in the operating system kernel**](https://dl.acm.org/doi/10.1145/3281411.3281443), _CoNEXT '18_
