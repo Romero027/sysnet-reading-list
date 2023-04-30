@@ -26,8 +26,7 @@
 - [**NetBricks: Taking the V out of NFV**](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda), _OSDI '16_
 - [**Paving the Way for NFV: Simplifying Middlebox Modifications Using StateAlyzr**](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/khalid), _NSDI'16_
 - [**mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed), _NSDI'17_
-- [**Stateless Network Functions: Breaking the Tight Coupling of State and Processing
-**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/kablan), _NSDI'17_
+- [**Stateless Network Functions: Breaking the Tight Coupling of State and Processing**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/kablan), _NSDI'17_
 - [**NFP: Enabling Network Function Parallelism in NFV**](https://dl.acm.org/doi/10.1145/3098822.3098826), _SIGCOMM'17_
 - [**Metron: NFV Service Chains at the True Speed of the Underlying Hardware**](https://www.usenix.org/conference/nsdi18/presentation/katsikas), _NSDI'18_
 - [**Elastic Scaling of Stateful Network Functions**](https://www.usenix.org/conference/nsdi18/presentation/woo), _NSDI'18_
@@ -45,12 +44,11 @@
 
 ### Network Abstraction / Language
 - [**Abstractions for network update**](https://dl.acm.org/doi/10.1145/2342356.2342427), _SIGCOMM '12_
+- [**Compiling Path Queries**](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/narayana), _NSDI '16_
 - [**SNAP: Stateful Network-Wide Abstractions for Packet Processing**](https://dl.acm.org/doi/10.1145/2934872.2934892), _SIGCOMM '16_
+- [**Quantitative Network Monitoring with NetQRE**](https://dl.acm.org/doi/10.1145/3098822.3098830), _SIGCOMM '17_
+- [**Sonata: query-driven streaming network telemetry**](https://dl.acm.org/doi/10.1145/3230543.3230555), _SIGCOMM '18_
 - [**Lyra: A Cross-Platform Language and Compiler for Data Plane Programming on Heterogeneous ASICs**](https://dl.acm.org/doi/10.1145/3387514.3405879), _SIGCOMM '20_
-
-<!-- ### Middleboxs and NFV
-- [**Switches for HIRE: Resource Scheduling for Data Center In-Network Computing**](https://dl.acm.org/doi/abs/10.1145/3445814.3446760), _ASPLOS '21_
-- [**NetRPC: Enabling In-Network Computation in Remote Procedure Calls**](https://www.usenix.org/conference/nsdi23/presentation/zhao-bohan), _NSDI '23_ -->
 
 ### eBPF and XDP
 - [**The eXpress data path: fast programmable packet processing in the operating system kernel**](https://dl.acm.org/doi/10.1145/3281411.3281443), _CoNEXT '18_
@@ -121,6 +119,7 @@
 - [**Understanding Host Network Stack Overheads**](https://dl.acm.org/doi/abs/10.1145/3452296.3472888), _SIGCOMM '20_
 - [**The nanoPU: A Nanosecond Network Stack for Datacenters**](https://www.usenix.org/conference/osdi21/presentation/ibanez), _OSDI '21_
 - [**How to diagnose nanosecond network latencies in rich end-host stacks**](https://www.usenix.org/conference/nsdi22/presentation/haecki), _NSDI '22_
+- [**Remote Procedure Call as a Managed System Service**](https://www.usenix.org/conference/nsdi23/presentation/chen-jingrong), _NSDI '23_
 
 ### Workload Interference
 - [**Q-Clouds: Managing Performance Interference Effects for QoS-Aware Clouds**](https://dl.acm.org/doi/abs/10.1145/1755913.1755938), _EuroSys '10_
