@@ -28,6 +28,7 @@
 - [**mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed), _NSDI'17_
 - [**Stateless Network Functions: Breaking the Tight Coupling of State and Processing**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/kablan), _NSDI'17_
 - [**NFP: Enabling Network Function Parallelism in NFV**](https://dl.acm.org/doi/10.1145/3098822.3098826), _SIGCOMM'17_
+- [**NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains**](https://dl.acm.org/doi/10.1145/3098822.3098828), _SIGCOMM'17_
 - [**Metron: NFV Service Chains at the True Speed of the Underlying Hardware**](https://www.usenix.org/conference/nsdi18/presentation/katsikas), _NSDI'18_
 - [**Elastic Scaling of Stateful Network Functions**](https://www.usenix.org/conference/nsdi18/presentation/woo), _NSDI'18_
 - [**Microboxes: High Performance NFV with Customizable, Asynchronous TCP Stacks and Dynamic Subscriptions**](https://dl.acm.org/doi/pdf/10.1145/3230543.3230563), _SIGCOMM '18_
