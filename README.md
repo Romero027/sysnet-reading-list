@@ -37,9 +37,7 @@
 - [**Performance Contracts for Software Network Functions**](https://www.usenix.org/conference/nsdi19/presentation/iyer), _NSDI '19_
 - [**Gallium: Automated Software Middlebox Offloading to Programmable Switches**](https://dl.acm.org/doi/abs/10.1145/3387514.3405869), _SIGCOMM '20_
 - [**TEA: Enabling State-Intensive Network Functions on Programmable Switches**](https://dl.acm.org/doi/10.1145/3387514.3405855), _SIGCOMM '20_
-- [**Contention-Aware Performance Prediction For Virtualized Network Functions**](https://dl.acm.org/doi/abs/10.1145/3387514.3405868), _SIGCOMM '20_
-- [**Programming Network Stack for Middleboxes with Rubik**](https://www.usenix.org/conference/nsdi21/presentation/li), _NSDI '21_
-  - Designed a language for programming middleboxes with an emphasis on supporting various transport protocols and flexible network stack hierarchy. 
+- [**Contention-Aware Performance Prediction For Virtualized Network Functions**](https://dl.acm.org/doi/abs/10.1145/3387514.3405868), _SIGCOMM '20_ 
 - [**Performance Interfaces for Network Functions**](https://www.usenix.org/conference/nsdi22/presentation/iyer), _NSDI '22_
 - [**A High-Speed Stateful Packet Processing Approach for Tbps Programmable Switches**](https://www.usenix.org/conference/nsdi23/presentation/scazzariello), _NSDI '23_
 
@@ -50,6 +48,9 @@
 - [**Quantitative Network Monitoring with NetQRE**](https://dl.acm.org/doi/10.1145/3098822.3098830), _SIGCOMM '17_
 - [**Sonata: query-driven streaming network telemetry**](https://dl.acm.org/doi/10.1145/3230543.3230555), _SIGCOMM '18_
 - [**Lyra: A Cross-Platform Language and Compiler for Data Plane Programming on Heterogeneous ASICs**](https://dl.acm.org/doi/10.1145/3387514.3405879), _SIGCOMM '20_
+- [**Lucid: a language for control in the data plane**](https://dl.acm.org/doi/10.1145/3452296.3472903), _SIGCOMM '21_
+- [**Programming Network Stack for Middleboxes with Rubik**](https://www.usenix.org/conference/nsdi21/presentation/li), _NSDI '21_
+  - Designed a language for programming middleboxes with an emphasis on supporting various transport protocols and flexible network stack hierarchy.
 
 ### eBPF and XDP
 - [**The eXpress data path: fast programmable packet processing in the operating system kernel**](https://dl.acm.org/doi/10.1145/3281411.3281443), _CoNEXT '18_
