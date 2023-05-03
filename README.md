@@ -104,6 +104,7 @@
 - [**SPRIGHT: Extracting the Server from Serverless Computing! High-performance eBPF-based Event-driven, Shared-memory Processing**](https://dl.acm.org/doi/pdf/10.1145/3544216.3544259), _SIGCOMM '22_
   - Accelerate service mesh (in serverless deployments) using eBPF and shared memory.
 - [**Executing Microservice Applications on Serverless, Correctly**](https://angelhof.github.io/files/papers/mu2sls-2023-popl.pdf), _POPL '23_
+- [**The Benefit of Hindsight: Tracing Edge-Cases in Distributed Systems**](https://www.usenix.org/conference/nsdi23/presentation/zhang-lei), _NSDI '23_
 
 ### Network Stack and RPC optimization
 - [**netmap: A Novel Framework for Fast Packet I/O**](https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo), _ATC '12_
