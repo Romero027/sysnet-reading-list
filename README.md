@@ -42,10 +42,12 @@
 - [**A High-Speed Stateful Packet Processing Approach for Tbps Programmable Switches**](https://www.usenix.org/conference/nsdi23/presentation/scazzariello), _NSDI '23_
 
 ### Network Abstraction / Language
+- [**Chimera: A Declarative Language for Streaming Network Traffic Analysis**](https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/borders), _Security '12_
 - [**Abstractions for network update**](https://dl.acm.org/doi/10.1145/2342356.2342427), _SIGCOMM '12_
 - [**Compiling Path Queries**](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/narayana), _NSDI '16_
 - [**SNAP: Stateful Network-Wide Abstractions for Packet Processing**](https://dl.acm.org/doi/10.1145/2934872.2934892), _SIGCOMM '16_
 - [**Quantitative Network Monitoring with NetQRE**](https://dl.acm.org/doi/10.1145/3098822.3098830), _SIGCOMM '17_
+- [**Language-Directed Hardware Design for Network Performance Monitoring**](https://dl.acm.org/doi/10.1145/3098822.3098829), _SIGCOMM '17_
 - [**Sonata: query-driven streaming network telemetry**](https://dl.acm.org/doi/10.1145/3230543.3230555), _SIGCOMM '18_
 - [**Lyra: A Cross-Platform Language and Compiler for Data Plane Programming on Heterogeneous ASICs**](https://dl.acm.org/doi/10.1145/3387514.3405879), _SIGCOMM '20_
 - [**Lucid: a language for control in the data plane**](https://dl.acm.org/doi/10.1145/3452296.3472903), _SIGCOMM '21_
