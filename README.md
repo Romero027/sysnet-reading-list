@@ -40,6 +40,7 @@
 - [**Contention-Aware Performance Prediction For Virtualized Network Functions**](https://dl.acm.org/doi/abs/10.1145/3387514.3405868), _SIGCOMM '20_ 
 - [**Performance Interfaces for Network Functions**](https://www.usenix.org/conference/nsdi22/presentation/iyer), _NSDI '22_
 - [**A High-Speed Stateful Packet Processing Approach for Tbps Programmable Switches**](https://www.usenix.org/conference/nsdi23/presentation/scazzariello), _NSDI '23_
+- [**ExoPlane: An Operating System for On-Rack Switch Resource Augmentation**](https://www.usenix.org/conference/nsdi23/presentation/kim-daehyeok), _NSDI '23_
 
 ### Network Abstraction / Language
 - [**Chimera: A Declarative Language for Streaming Network Traffic Analysis**](https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/borders), _Security '12_
