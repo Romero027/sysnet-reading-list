@@ -35,12 +35,15 @@
 - [**ClickNF: a Modular Stack for Custom Network Functions**](https://www.usenix.org/conference/atc18/presentation/gallo), _ATC '18_
 - [**FlowBlaze: Stateful Packet Processing in Hardware**](https://www.usenix.org/conference/nsdi19/presentation/pontarelli), _NSDI '19_
 - [**Performance Contracts for Software Network Functions**](https://www.usenix.org/conference/nsdi19/presentation/iyer), _NSDI '19_
+- [**Verifying software network functions with no verification expertise**](https://dl.acm.org/doi/10.1145/3341301.3359647), _SOSP '19_
 - [**Gallium: Automated Software Middlebox Offloading to Programmable Switches**](https://dl.acm.org/doi/abs/10.1145/3387514.3405869), _SIGCOMM '20_
 - [**TEA: Enabling State-Intensive Network Functions on Programmable Switches**](https://dl.acm.org/doi/10.1145/3387514.3405855), _SIGCOMM '20_
 - [**Contention-Aware Performance Prediction For Virtualized Network Functions**](https://dl.acm.org/doi/abs/10.1145/3387514.3405868), _SIGCOMM '20_ 
 - [**Performance Interfaces for Network Functions**](https://www.usenix.org/conference/nsdi22/presentation/iyer), _NSDI '22_
+- [**Quadrant: A Cloud-Deployable NF Virtualization Platform**](https://dl.acm.org/doi/pdf/10.1145/3542929.3563471), _SoCC '22_
 - [**A High-Speed Stateful Packet Processing Approach for Tbps Programmable Switches**](https://www.usenix.org/conference/nsdi23/presentation/scazzariello), _NSDI '23_
 - [**ExoPlane: An Operating System for On-Rack Switch Resource Augmentation**](https://www.usenix.org/conference/nsdi23/presentation/kim-daehyeok), _NSDI '23_
+- [**LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed**](https://www.usenix.org/conference/nsdi23/presentation/li-hao), _NSDI '23_
 
 ### Network Abstraction / Language
 - [**Chimera: A Declarative Language for Streaming Network Traffic Analysis**](https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/borders), _Security '12_
