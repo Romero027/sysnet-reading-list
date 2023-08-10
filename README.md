@@ -47,6 +47,7 @@
 - [**A High-Speed Stateful Packet Processing Approach for Tbps Programmable Switches**](https://www.usenix.org/conference/nsdi23/presentation/scazzariello), _NSDI '23_
 - [**ExoPlane: An Operating System for On-Rack Switch Resource Augmentation**](https://www.usenix.org/conference/nsdi23/presentation/kim-daehyeok), _NSDI '23_
 - [**LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed**](https://www.usenix.org/conference/nsdi23/presentation/li-hao), _NSDI '23_
+- [**Disaggregating Stateful Network Functions**](https://www.usenix.org/conference/nsdi23/presentation/bansal), _NSDI '23_
 
 ### Network Abstraction / Language
 - [**Chimera: A Declarative Language for Streaming Network Traffic Analysis**](https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/borders), _Security '12_
