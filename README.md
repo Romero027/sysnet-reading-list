@@ -103,16 +103,22 @@
 - [**Service-Level Fault Injection Testing**](https://dl.acm.org/doi/abs/10.1145/3472883.3487005), _SoCC '21_
 - [**Leveraging Service Meshes as a New Network Layer**](https://dl.acm.org/doi/abs/10.1145/3484266.3487379), _HotNets '21_
   - Highlighted service mesh as an abstraction and discussed some use cases and challenges of SM.
+- [**SHOWAR: Right-Sizing And Efficient Scheduling of Microservices**](https://dl.acm.org/doi/abs/10.1145/3472883.3486999), _SoCC '21_
 - [**DeepRest: Deep Resource Estimation for Interactive Microservices**](https://dl.acm.org/doi/pdf/10.1145/3492321.3519564), _EuroSys '22_
 - [**CRISP: Critical Path Analysis of Large-Scale Microservice Architectures**](https://www.usenix.org/conference/atc22/presentation/zhang-zhizhou), _ATC '22_
   - Uber's production-grade microservice tracing system for critical path analysis (CPA), built on top of Jaeger. 
   - Section 7.2 has some interesting data on Uber's microserivces in production.
 - [**SPRIGHT: Extracting the Server from Serverless Computing! High-performance eBPF-based Event-driven, Shared-memory Processing**](https://dl.acm.org/doi/pdf/10.1145/3544216.3544259), _SIGCOMM '22_
   - Accelerate service mesh (in serverless deployments) using eBPF and shared memory.
+- [**DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems**](https://dl.acm.org/doi/10.1145/3542929.3563469), _SoCC '22_
+- [**The Power of Prediction: Microservice Auto Scaling via Workload Learning**](https://dl.acm.org/doi/10.1145/3542929.3563477), _SoCC '22_
 - [**Executing Microservice Applications on Serverless, Correctly**](https://angelhof.github.io/files/papers/mu2sls-2023-popl.pdf), _POPL '23_
 - [**The Benefit of Hindsight: Tracing Edge-Cases in Distributed Systems**](https://www.usenix.org/conference/nsdi23/presentation/zhang-lei), _NSDI '23_
+- [**Nodens: Enabling Resource Efficient and Fast QoS Recovery of Dynamic Microservice Applications in Datacenters**](https://www.usenix.org/conference/atc23/presentation/shi), _ATC '23_
+- [**Lifting the veil on Meta’s microservice architecture: Analyses of topology and request workflows**](https://www.usenix.org/conference/atc23/presentation/huye), _ATC '23_
+- [**ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta**](https://www.usenix.org/conference/osdi23/presentation/saokar), _OSDI '23_
 
-### Network Stack and RPC optimization
+### Network Stack and RPC 
 - [**netmap: A Novel Framework for Fast Packet I/O**](https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo), _ATC '12_
 - [**Chronos: Predictable Low Latency for Data Center Applications**](https://dl.acm.org/doi/10.1145/2391229.2391238), _SoCC'12_
 - [**Improving Network Connection Locality on Multicore Systems**](https://dl.acm.org/doi/10.1145/2168836.2168870), _EuroSys'12_
@@ -132,6 +138,7 @@
 - [**The nanoPU: A Nanosecond Network Stack for Datacenters**](https://www.usenix.org/conference/osdi21/presentation/ibanez), _OSDI '21_
 - [**How to diagnose nanosecond network latencies in rich end-host stacks**](https://www.usenix.org/conference/nsdi22/presentation/haecki), _NSDI '22_
 - [**Remote Procedure Call as a Managed System Service**](https://www.usenix.org/conference/nsdi23/presentation/chen-jingrong), _NSDI '23_
+- [**A Cloud-Scale Characterization of Remote Procedure Calls**](), _SOSP '23_
 
 ### Workload Interference
 - [**Q-Clouds: Managing Performance Interference Effects for QoS-Aware Clouds**](https://dl.acm.org/doi/abs/10.1145/1755913.1755938), _EuroSys '10_
