@@ -72,6 +72,7 @@
 - [**ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling**](https://dl.acm.org/doi/10.1145/3477132.3483542), _SOSP '21_
 - [**Syrup: User-Defined Scheduling Across the Stack**](https://dl.acm.org/doi/pdf/10.1145/3477132.3483548), _SOSP '21_
 - [**XRP: In-Kernel Storage Functions with eBPF**](https://www.usenix.org/conference/osdi22/presentation/zhong), _OSDI '22_
+- [**Tigger: A Database Proxy That Bounces With User-Bypass**](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf), _VLDB '23_
 
 ### Transport Protocol
 - [**The QUIC Transport Protocol: Design and Internet-Scale Deployment**](https://dl.acm.org/doi/10.1145/3484266.3487382), _SIGCOMM '17_
@@ -143,15 +144,15 @@
 
 ### Workload Interference
 - [**Q-Clouds: Managing Performance Interference Effects for QoS-Aware Clouds**](https://dl.acm.org/doi/abs/10.1145/1755913.1755938), _EuroSys '10_
-  - Profiling applications performance in a standalone mode and using that to provide a baseline target when consolidating them onto a shared host.  
+  - Profiling applications' performance in a standalone mode and using that to provide a baseline target when consolidating them onto a shared host.  
 - [**Cuanta: quantifying effects of shared on-chip resource interference for consolidated virtual machines**](https://dl.acm.org/doi/10.1145/2038916.2038938), _SoCC '11_
   - Introduced a cache loader micro-benchmark to profile application performance under varying cache-usage pressure and use the profile to predict the impact of cache interference among consolidated workloads  
 - [**Bubble-up: Increasing utilization in modern warehouse scale computers via sensible co-locations**](https://ieeexplore.ieee.org/document/7851476), _MICRO '11_
   - Each application is profiled 1) using a memory antagonist to obtain its (memory) sensitivity curve and 2) to measure the pressure on the memory it generates.  
 - [**Toward Predictable Performance in Software Packet-Processing Platforms**](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/dobrescu), _NSDI '12_
-  - Profile each NF’s cache ref/sec running alone and its performance drop curve when collocate with a synthetic antagonist. Predict the performance drop with these profiles. 
+  - Profile each NF’s cache ref/sec running alone and its performance drop curve when collocating with a synthetic antagonist. Predict the performance drop with these profiles. 
  - [**DeepDive: Transparently Identifying and Managing Performance Interference in Virtualized Environments**](https://www.usenix.org/conference/atc13/technical-sessions/presentation/novakovi), _ATC '13_
-  - Detect interference via differential low-level metrics (see table 1), validate the interference and identify the interfering resource by running the victim in isolation, and mitigate interference via migration. 
+  - Detect interference via differential low-level metrics (see Table 1), validate the interference and identify the interfering resource by running the victim in isolation, and mitigate interference via migration. 
 - [**Bobtail: Avoiding Long Tails in the Cloud**](https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/xu_yunjing), _NSDI '13_
 - [**Paragon: QoS-Aware Scheduling for Heterogeneous Datacenters**](https://dl.acm.org/doi/10.1145/2451116.2451125), _ASPLOS '13_
 - [**CPI2 : CPU performance isolation for shared compute clusters**](https://dl.acm.org/doi/10.1145/2465351.2465388), _EuroSys '13_
@@ -163,14 +164,14 @@
 - [**PerfIso: Performance Isolation for Commercial Latency-Sensitive Services**](https://www.usenix.org/conference/atc18/presentation/iorgulescu), _ATC '18_
   - Described a production system (Microsoft Bing) for performance isolation  
 - [**PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services**](https://dl.acm.org/doi/10.1145/3297858.3304005), _ASPLOS '19_ 
-  - Online monitoring that detects QoS violation in O(100ms) and boosts the resource allocation of victim.  
+  - Online monitoring that detects QoS violations in O(100ms) and boosts the resource allocation of victims.  
 - [**PicNIC: predictable virtualized NIC**](https://dl.acm.org/doi/10.1145/3341302.3342093), _SIGCOMM '19_
   - Characterize how performance isolation can break in virtualized network stack in terms of network bandwidth and network stack processing rate. Provides an abstraction and construct based on bandwidth, latency, and loss rate to detect isolation breakdown and enforce isolation.  
 - [**Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads**](https://www.usenix.org/conference/nsdi19/presentation/ousterhout), _NSDI '19_
 - [**Caladan: Mitigating Interference at Microsecond Timescales**](https://www.usenix.org/conference/osdi20/presentation/fried), _OSDI '20_
-  - Uses a set of control signals and corresponding actions to detection and respond to interference over microsecond timescales.  
+  - Uses a set of control signals and corresponding actions to detect and respond to interference over microsecond timescales.  
 - [**FIRM: An Intelligent Fine-Grained Resource Management Framework for SLO-Oriented Microservices**](https://www.usenix.org/conference/osdi20/presentation/qiu), _OSDI '20_
-  - Use online telemetry data (resource usage and latency) and offline learned models to detection and localize microservice that cause SLO violations and mitigate violation via dynamic re-provisioning.
+  - Use online telemetry data (resource usage and latency) and offline learned models to detect and localize microservices that cause SLO violations and mitigate violations via dynamic re-provisioning.
 
 
 ### Internet Architecture
