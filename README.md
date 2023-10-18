@@ -71,6 +71,7 @@
 - [**Synthesizing Safe and Efficient Kernel Extensions for Packet Processing**](https://dl.acm.org/doi/pdf/10.1145/3452296.3472929), _SIGCOMM '21_
 - [**ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling**](https://dl.acm.org/doi/10.1145/3477132.3483542), _SOSP '21_
 - [**Syrup: User-Defined Scheduling Across the Stack**](https://dl.acm.org/doi/pdf/10.1145/3477132.3483548), _SOSP '21_
+- [**LiteFlow: towards high-performance adaptive neural networks for kernel datapath**](https://dl.acm.org/doi/10.1145/3544216.3544229), _SIGCOMM '22_
 - [**XRP: In-Kernel Storage Functions with eBPF**](https://www.usenix.org/conference/osdi22/presentation/zhong), _OSDI '22_
 - [**Tigger: A Database Proxy That Bounces With User-Bypass**](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf), _VLDB '23_
 
@@ -140,6 +141,7 @@
 - [**The nanoPU: A Nanosecond Network Stack for Datacenters**](https://www.usenix.org/conference/osdi21/presentation/ibanez), _OSDI '21_
 - [**How to diagnose nanosecond network latencies in rich end-host stacks**](https://www.usenix.org/conference/nsdi22/presentation/haecki), _NSDI '22_
 - [**Remote Procedure Call as a Managed System Service**](https://www.usenix.org/conference/nsdi23/presentation/chen-jingrong), _NSDI '23_
+- [**Fathom: Understanding Datacenter Application Network Performance**](https://dl.acm.org/doi/pdf/10.1145/3603269.3604815), _SIGCOMM '23_
 - [**A Cloud-Scale Characterization of Remote Procedure Calls**](), _SOSP '23_
 
 ### Workload Interference
