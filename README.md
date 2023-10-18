@@ -62,7 +62,7 @@
 - [**Programming Network Stack for Middleboxes with Rubik**](https://www.usenix.org/conference/nsdi21/presentation/li), _NSDI '21_
   - Designed a language for programming middleboxes with an emphasis on supporting various transport protocols and flexible network stack hierarchy.
 
-### eBPF and XDP
+### eBPF and XDP (See Also [awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/tree/master))
 - [**The eXpress data path: fast programmable packet processing in the operating system kernel**](https://dl.acm.org/doi/10.1145/3281411.3281443), _CoNEXT '18_
 - [**hXDP: Efficient Software Packet Processing on FPGA NICs**](https://www.usenix.org/conference/osdi20/presentation/brunella), _OSDI '20_
 - [**Specification and verification in the field: Applying formal methods to BPF just-in-time compilers in the Linux kernel**](https://www.usenix.org/conference/osdi20/presentation/nelson), _OSDI '20_
@@ -74,6 +74,7 @@
 - [**LiteFlow: towards high-performance adaptive neural networks for kernel datapath**](https://dl.acm.org/doi/10.1145/3544216.3544229), _SIGCOMM '22_
 - [**XRP: In-Kernel Storage Functions with eBPF**](https://www.usenix.org/conference/osdi22/presentation/zhong), _OSDI '22_
 - [**Tigger: A Database Proxy That Bounces With User-Bypass**](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf), _VLDB '23_
+- [**Automatic Kernel Offload Using BPF**](https://dl.acm.org/doi/10.1145/3593856.3595888), _HotOS '23_
 
 ### Transport Protocol
 - [**The QUIC Transport Protocol: Design and Internet-Scale Deployment**](https://dl.acm.org/doi/10.1145/3484266.3487382), _SIGCOMM '17_
