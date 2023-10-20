@@ -61,6 +61,7 @@
 - [**Lucid: a language for control in the data plane**](https://dl.acm.org/doi/10.1145/3452296.3472903), _SIGCOMM '21_
 - [**Programming Network Stack for Middleboxes with Rubik**](https://www.usenix.org/conference/nsdi21/presentation/li), _NSDI '21_
   - Designed a language for programming middleboxes with an emphasis on supporting various transport protocols and flexible network stack hierarchy.
+- [**ClickINC: In-network Computing as a Service in Heterogeneous Programmable Data-center Networks**](https://dl.acm.org/doi/10.1145/3603269.3604835), _SIGCOMM '23_
 
 ### eBPF and XDP (See Also [awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/tree/master))
 - [**The eXpress data path: fast programmable packet processing in the operating system kernel**](https://dl.acm.org/doi/10.1145/3281411.3281443), _CoNEXT '18_
@@ -121,6 +122,7 @@
 - [**Nodens: Enabling Resource Efficient and Fast QoS Recovery of Dynamic Microservice Applications in Datacenters**](https://www.usenix.org/conference/atc23/presentation/shi), _ATC '23_
 - [**Lifting the veil on Meta’s microservice architecture: Analyses of topology and request workflows**](https://www.usenix.org/conference/atc23/presentation/huye), _ATC '23_
 - [**ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta**](https://www.usenix.org/conference/osdi23/presentation/saokar), _OSDI '23_
+- [**Network-Centric Distributed Tracing with DeepFlow: Troubleshooting Your Microservices in Zero Code**](https://dl.acm.org/doi/10.1145/3603269.3604823), _SIGCOMM '23_
 
 ### Network Stack and RPC 
 - [**netmap: A Novel Framework for Fast Packet I/O**](https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo), _ATC '12_
@@ -142,6 +144,7 @@
 - [**The nanoPU: A Nanosecond Network Stack for Datacenters**](https://www.usenix.org/conference/osdi21/presentation/ibanez), _OSDI '21_
 - [**How to diagnose nanosecond network latencies in rich end-host stacks**](https://www.usenix.org/conference/nsdi22/presentation/haecki), _NSDI '22_
 - [**Remote Procedure Call as a Managed System Service**](https://www.usenix.org/conference/nsdi23/presentation/chen-jingrong), _NSDI '23_
+- [**NetClone: Fast, Scalable, and Dynamic Request Cloning for Microsecond-Scale RPCs**](https://dl.acm.org/doi/10.1145/3603269.3604820), _SIGCOMM '23_
 - [**Fathom: Understanding Datacenter Application Network Performance**](https://dl.acm.org/doi/pdf/10.1145/3603269.3604815), _SIGCOMM '23_
 - [**A Cloud-Scale Characterization of Remote Procedure Calls**](), _SOSP '23_
 
