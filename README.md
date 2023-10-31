@@ -76,6 +76,7 @@
 - [**XRP: In-Kernel Storage Functions with eBPF**](https://www.usenix.org/conference/osdi22/presentation/zhong), _OSDI '22_
 - [**Tigger: A Database Proxy That Bounces With User-Bypass**](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf), _VLDB '23_
 - [**Automatic Kernel Offload Using BPF**](https://dl.acm.org/doi/10.1145/3593856.3595888), _HotOS '23_
+- [**EPF: Evil Packet Filter**](https://www.usenix.org/conference/atc23/presentation/jin), _ATC '23_
 
 ### Transport Protocol
 - [**The QUIC Transport Protocol: Design and Internet-Scale Deployment**](https://dl.acm.org/doi/10.1145/3484266.3487382), _SIGCOMM '17_
@@ -99,7 +100,7 @@
 - [**Autopilot: workload autoscaling at Google**](https://dl.acm.org/doi/pdf/10.1145/3342195.3387524), _EuroSys '20_
 - [**FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices**](https://www.usenix.org/conference/osdi20/presentation/qiu), _OSDI '20_
 - [**Accelerometer: Understanding Acceleration Opportunities for Data Center Overheads at Hyperscale**](https://dl.acm.org/doi/10.1145/3373376.3378450), _ASPLOS '20_
-  - A study on how microservices spend their CPU cycles. It shows that, within Facebook, microservices spend only a small fraction of their execution time service core application logic, and signigicant cycles on orchestration work (e.g., compression, serialization, and I/O processing).
+  - A study on how microservices spend their CPU cycles. It shows that, within Facebook, microservices spend only a small fraction of their execution time service core application logic, and significant cycles on orchestration work (e.g., compression, serialization, and I/O processing).
 - [**Nightcore: Efficient and Scalable Serverless Computing for Latency-Sensitive, Interactive Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446701), _ASPLOS '21_
 - [**Sage: Practical and Scalable ML-Driven Performance Debugging in Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446700), _ASPLOS '21_
 - [**Sinan: ML-Based and QoS-Aware Resource Management for Cloud Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446693), _ASPLOS '21_
@@ -112,7 +113,7 @@
 - [**DeepRest: Deep Resource Estimation for Interactive Microservices**](https://dl.acm.org/doi/pdf/10.1145/3492321.3519564), _EuroSys '22_
 - [**CRISP: Critical Path Analysis of Large-Scale Microservice Architectures**](https://www.usenix.org/conference/atc22/presentation/zhang-zhizhou), _ATC '22_
   - Uber's production-grade microservice tracing system for critical path analysis (CPA), built on top of Jaeger. 
-  - Section 7.2 has some interesting data on Uber's microserivces in production.
+  - Section 7.2 has some interesting data on Uber's microservices in production.
 - [**SPRIGHT: Extracting the Server from Serverless Computing! High-performance eBPF-based Event-driven, Shared-memory Processing**](https://dl.acm.org/doi/pdf/10.1145/3544216.3544259), _SIGCOMM '22_
   - Accelerate service mesh (in serverless deployments) using eBPF and shared memory.
 - [**DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems**](https://dl.acm.org/doi/10.1145/3542929.3563469), _SoCC '22_
@@ -123,6 +124,8 @@
 - [**Lifting the veil on Meta’s microservice architecture: Analyses of topology and request workflows**](https://www.usenix.org/conference/atc23/presentation/huye), _ATC '23_
 - [**ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta**](https://www.usenix.org/conference/osdi23/presentation/saokar), _OSDI '23_
 - [**Network-Centric Distributed Tracing with DeepFlow: Troubleshooting Your Microservices in Zero Code**](https://dl.acm.org/doi/10.1145/3603269.3604823), _SIGCOMM '23_
+- [**Dissecting Overheads of Service Mesh Sidecars**](https://dl.acm.org/doi/10.1145/3620678.3624652), _SoCC '23_
+- [**LatenSeer: Causal Modeling of End-to-End Latency Distributions by Harnessing Distributed Tracing**](https://dl.acm.org/doi/10.1145/3620678.3624787), _SoCC '23_
 
 ### Network Stack and RPC 
 - [**netmap: A Novel Framework for Fast Packet I/O**](https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo), _ATC '12_
