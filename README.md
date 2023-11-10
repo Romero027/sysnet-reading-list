@@ -185,7 +185,7 @@
   - Use online telemetry data (resource usage and latency) and offline learned models to detect and localize microservices that cause SLO violations and mitigate violations via dynamic re-provisioning.
 
 
-### Internet Architecture
+### Network Architecture
 - [**Architectural considerations for a new generation of protocols**](https://dl.acm.org/doi/10.1145/99517.99553), _SIGCOMM CCR '90_
 - [**A Data-Oriented (and Beyond) Network Architecture**](https://dl.acm.org/doi/pdf/10.1145/1282380.1282402), _SIGCOMM '07_
 - [**Networking named content**](https://dl.acm.org/doi/10.1145/1658939.1658941), _CoNEXT '12_
