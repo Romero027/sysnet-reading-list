@@ -19,6 +19,7 @@
 - [**Middleboxes No Longer Considered Harmful**](http://nms.lcs.mit.edu/papers/doa-osdi04.pdf), _OSDI '04_
 - [**Making Middleboxes Someone Else’s Problem: Network Processing as a Cloud Service**](https://dl.acm.org/doi/10.1145/2342356.2342359), _SIGCOMM '12_
 - [**Design and Implementation of a Consolidated Middlebox Architecture**](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/sekar), _NSDI '12_
+  - Today's middleboxes are independent, specialized boxes. CoMb consolidates middleboxes to exploit multiplexing, module reuse, and spatial distribution
 - [**Split/Merge: System Support for Elastic Execution in Virtual Middleboxes**](https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/rajagopalan), _NSDI'14_
   - Autoscaling of stateful network functions 
 - [**ClickOS and the Art of Network Function Virtualization**](https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/martins), _NSDI'14_
