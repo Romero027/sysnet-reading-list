@@ -48,6 +48,7 @@
 - [**A High-Speed Stateful Packet Processing Approach for Tbps Programmable Switches**](https://www.usenix.org/conference/nsdi23/presentation/scazzariello), _NSDI '23_
 - [**ExoPlane: An Operating System for On-Rack Switch Resource Augmentation**](https://www.usenix.org/conference/nsdi23/presentation/kim-daehyeok), _NSDI '23_
 - [**LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed**](https://www.usenix.org/conference/nsdi23/presentation/li-hao), _NSDI '23_
+  - Consolidate unmodified NFs that are implemented in different platforms (e.g., Snort, Click, and NetBricks)
 - [**Disaggregating Stateful Network Functions**](https://www.usenix.org/conference/nsdi23/presentation/bansal), _NSDI '23_
 
 ### Network Abstraction / Language
