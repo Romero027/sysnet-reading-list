@@ -26,8 +26,8 @@
 - [**Enforcing Network-Wide Policies in the Presence of Dynamic Middlebox Actions using FlowTags**](https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/fayazbakhsh), _NSDI'14_
 - [**Rollback-Recovery for Middleboxes**](https://dl.acm.org/doi/10.1145/2829988.2787501), _SIGCOMM'15_
 - [**NetBricks: Taking the V out of NFV**](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda), _OSDI '16_
-- [**Paving the Way for NFV: Simplifying Middlebox Modifications Using StateAlyzr**](https://dl.acm.org/doi/10.1145/2934872.2934875), _SIGCOMM'16_
-- [**OpenBox: A Software-Defined Framework for Developing, Deploying, and Managing Network Functions**](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/khalid), _NSDI'16_
+- [**OpenBox: A Software-Defined Framework for Developing, Deploying, and Managing Network Functions**](https://dl.acm.org/doi/10.1145/2934872.2934875), _SIGCOMM'16_
+- [**Paving the Way for NFV: Simplifying Middlebox Modifications Using StateAlyzr**](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/khalid), _NSDI'16_
 - [**mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed), _NSDI'17_
 - [**Stateless Network Functions: Breaking the Tight Coupling of State and Processing**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/kablan), _NSDI'17_
 - [**NFP: Enabling Network Function Parallelism in NFV**](https://dl.acm.org/doi/10.1145/3098822.3098826), _SIGCOMM'17_
