@@ -129,6 +129,9 @@
 - [**Network-Centric Distributed Tracing with DeepFlow: Troubleshooting Your Microservices in Zero Code**](https://dl.acm.org/doi/10.1145/3603269.3604823), _SIGCOMM '23_
 - [**Dissecting Overheads of Service Mesh Sidecars**](https://dl.acm.org/doi/10.1145/3620678.3624652), _SoCC '23_
 - [**LatenSeer: Causal Modeling of End-to-End Latency Distributions by Harnessing Distributed Tracing**](https://dl.acm.org/doi/10.1145/3620678.3624787), _SoCC '23_
+- [**Expressive Policies For Microservice Networks**](https://dl.acm.org/doi/10.1145/3626111.3628181), _HotNets '23_
+  - Language and system support for complex safety properties that reason about the flow of requests across the whole microservice network (not just between adjacent hops).  
+- [**Application Defined Networks**](https://dl.acm.org/doi/10.1145/3626111.3628178), _HotNets '23_
 
 ### Network Stack and RPC 
 - [**netmap: A Novel Framework for Fast Packet I/O**](https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo), _ATC '12_
