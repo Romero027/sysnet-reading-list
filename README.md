@@ -28,7 +28,6 @@
 - [**NetBricks: Taking the V out of NFV**](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda), _OSDI '16_
 - [**OpenBox: A Software-Defined Framework for Developing, Deploying, and Managing Network Functions**](https://dl.acm.org/doi/10.1145/2934872.2934875), _SIGCOMM'16_
 - [**Paving the Way for NFV: Simplifying Middlebox Modifications Using StateAlyzr**](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/khalid), _NSDI'16_
-- [**mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed), _NSDI'17_
 - [**Stateless Network Functions: Breaking the Tight Coupling of State and Processing**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/kablan), _NSDI'17_
 - [**NFP: Enabling Network Function Parallelism in NFV**](https://dl.acm.org/doi/10.1145/3098822.3098826), _SIGCOMM'17_
 - [**NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains**](https://dl.acm.org/doi/10.1145/3098822.3098828), _SIGCOMM'17_
@@ -57,6 +56,7 @@
 - [**Abstractions for network update**](https://dl.acm.org/doi/10.1145/2342356.2342427), _SIGCOMM '12_
 - [**Compiling Path Queries**](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/narayana), _NSDI '16_
 - [**SNAP: Stateful Network-Wide Abstractions for Packet Processing**](https://dl.acm.org/doi/10.1145/2934872.2934892), _SIGCOMM '16_
+- [**mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes**](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed), _NSDI'17_
 - [**Quantitative Network Monitoring with NetQRE**](https://dl.acm.org/doi/10.1145/3098822.3098830), _SIGCOMM '17_
 - [**Language-Directed Hardware Design for Network Performance Monitoring**](https://dl.acm.org/doi/10.1145/3098822.3098829), _SIGCOMM '17_
 - [**Sonata: query-driven streaming network telemetry**](https://dl.acm.org/doi/10.1145/3230543.3230555), _SIGCOMM '18_
@@ -64,6 +64,7 @@
 - [**Lucid: a language for control in the data plane**](https://dl.acm.org/doi/10.1145/3452296.3472903), _SIGCOMM '21_
 - [**Programming Network Stack for Middleboxes with Rubik**](https://www.usenix.org/conference/nsdi21/presentation/li), _NSDI '21_
   - Designed a language for programming middleboxes with an emphasis on supporting various transport protocols and flexible network stack hierarchy.
+- [**SwiSh: Distributed Shared State Abstractions for Programmable Switches**](https://www.usenix.org/conference/nsdi22/presentation/zeno), _NSDI '22_
 - [**ClickINC: In-network Computing as a Service in Heterogeneous Programmable Data-center Networks**](https://dl.acm.org/doi/10.1145/3603269.3604835), _SIGCOMM '23_
 
 ### eBPF and XDP (See Also [awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/tree/master))
