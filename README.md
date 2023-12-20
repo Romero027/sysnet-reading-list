@@ -24,6 +24,7 @@
   - Autoscaling of stateful network functions 
 - [**ClickOS and the Art of Network Function Virtualization**](https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/martins), _NSDI'14_
 - [**Enforcing Network-Wide Policies in the Presence of Dynamic Middlebox Actions using FlowTags**](https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/fayazbakhsh), _NSDI'14_
+- [**BlindBox: Deep Packet Inspection over Encrypted Traffic**](https://dl.acm.org/doi/10.1145/2829988.2787502), _SIGCOMM'15_
 - [**Rollback-Recovery for Middleboxes**](https://dl.acm.org/doi/10.1145/2829988.2787501), _SIGCOMM'15_
 - [**NetBricks: Taking the V out of NFV**](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda), _OSDI '16_
 - [**OpenBox: A Software-Defined Framework for Developing, Deploying, and Managing Network Functions**](https://dl.acm.org/doi/10.1145/2934872.2934875), _SIGCOMM'16_
