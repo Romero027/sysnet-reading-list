@@ -51,6 +51,7 @@
 - [**LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed**](https://www.usenix.org/conference/nsdi23/presentation/li-hao), _NSDI '23_
   - Consolidate unmodified NFs that are implemented in different platforms (e.g., Snort, Click, and NetBricks)
 - [**Disaggregating Stateful Network Functions**](https://www.usenix.org/conference/nsdi23/presentation/bansal), _NSDI '23_
+- [**Automatic Parallelization of Software Network Functions**](https://www.usenix.org/conference/nsdi24/presentation/pereira), _NSDI '24_
 
 ### Network Abstraction / Language
 - [**Chimera: A Declarative Language for Streaming Network Traffic Analysis**](https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/borders), _Security '12_
@@ -134,6 +135,10 @@
 - [**Expressive Policies For Microservice Networks**](https://dl.acm.org/doi/10.1145/3626111.3628181), _HotNets '23_
   - Language and system support for complex safety properties that reason about the flow of requests across the whole microservice network (not just between adjacent hops).  
 - [**Application Defined Networks**](https://dl.acm.org/doi/10.1145/3626111.3628178), _HotNets '23_
+- [**Cilantro: Performance-Aware Resource Allocation for General Objectives via Online Feedback**](https://www.usenix.org/conference/osdi23/presentation/bhardwaj), _OSDI '23_
+- [**Blueprint: A Toolchain for Highly-Reconfigurable Microservice Applications**](https://dl.acm.org/doi/10.1145/3600006.3613138), _SOSP '23_
+- [**MuCache: a General Framework for Caching in Microservice Graphs**](https://www.usenix.org/conference/nsdi24/presentation/zhang-haoran), _NSDI '24_
+- [**Autothrottle: A Practical Bi-Level Approach to Resource Management for SLO-Targeted Microservices**](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo), _NSDI '24_
 
 ### Network Stack and RPC 
 - [**netmap: A Novel Framework for Fast Packet I/O**](https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo), _ATC '12_
