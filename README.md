@@ -83,6 +83,8 @@
 - [**Tigger: A Database Proxy That Bounces With User-Bypass**](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf), _VLDB '23_
 - [**Automatic Kernel Offload Using BPF**](https://dl.acm.org/doi/10.1145/3593856.3595888), _HotOS '23_
 - [**EPF: Evil Packet Filter**](https://www.usenix.org/conference/atc23/presentation/jin), _ATC '23_
+- [**DINT: Fast In-Kernel Distributed Transactions with eBPF**](https://www.usenix.org/conference/nsdi24/presentation/zhou-yang), _NSDI '24_
+
 
 ### Transport Protocol
 - [**The QUIC Transport Protocol: Design and Internet-Scale Deployment**](https://dl.acm.org/doi/10.1145/3484266.3487382), _SIGCOMM '17_
