@@ -67,6 +67,7 @@
 - [**Programming Network Stack for Middleboxes with Rubik**](https://www.usenix.org/conference/nsdi21/presentation/li), _NSDI '21_
   - Designed a language for programming middleboxes with an emphasis on supporting various transport protocols and flexible network stack hierarchy.
 - [**SwiSh: Distributed Shared State Abstractions for Programmable Switches**](https://www.usenix.org/conference/nsdi22/presentation/zeno), _NSDI '22_
+- [**NetRPC: Enabling In-Network Computation in Remote Procedure Calls**](https://www.usenix.org/conference/nsdi23/presentation/zhao-bohan), _NSDI '23_
 - [**ClickINC: In-network Computing as a Service in Heterogeneous Programmable Data-center Networks**](https://dl.acm.org/doi/10.1145/3603269.3604835), _SIGCOMM '23_
 
 ### eBPF and XDP (See Also [awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/tree/master))
