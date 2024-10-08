@@ -39,6 +39,7 @@
 - [**ClickNF: a Modular Stack for Custom Network Functions**](https://www.usenix.org/conference/atc18/presentation/gallo), _ATC '18_
 - [**FlowBlaze: Stateful Packet Processing in Hardware**](https://www.usenix.org/conference/nsdi19/presentation/pontarelli), _NSDI '19_
 - [**Performance Contracts for Software Network Functions**](https://www.usenix.org/conference/nsdi19/presentation/iyer), _NSDI '19_
+- [**Correctness and Performance for Stateful Chained Network Functions**](https://www.usenix.org/conference/nsdi19/presentation/khalid), _NSDI '19_
 - [**Verifying software network functions with no verification expertise**](https://dl.acm.org/doi/10.1145/3341301.3359647), _SOSP '19_
 - [**Gallium: Automated Software Middlebox Offloading to Programmable Switches**](https://dl.acm.org/doi/abs/10.1145/3387514.3405869), _SIGCOMM '20_
 - [**TEA: Enabling State-Intensive Network Functions on Programmable Switches**](https://dl.acm.org/doi/10.1145/3387514.3405855), _SIGCOMM '20_
