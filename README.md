@@ -168,6 +168,7 @@
 - [**NetClone: Fast, Scalable, and Dynamic Request Cloning for Microsecond-Scale RPCs**](https://dl.acm.org/doi/10.1145/3603269.3604820), _SIGCOMM '23_
 - [**Fathom: Understanding Datacenter Application Network Performance**](https://dl.acm.org/doi/pdf/10.1145/3603269.3604815), _SIGCOMM '23_
 - [**A Cloud-Scale Characterization of Remote Procedure Calls**](https://dl.acm.org/doi/10.1145/3600006.3613156), _SOSP '23_
+- [**HydraRPC: RPC in the CXL Era**](https://www.usenix.org/conference/atc24/presentation/ma), _ATC '24_
 
 ### Workload Interference
 - [**Q-Clouds: Managing Performance Interference Effects for QoS-Aware Clouds**](https://dl.acm.org/doi/abs/10.1145/1755913.1755938), _EuroSys '10_
