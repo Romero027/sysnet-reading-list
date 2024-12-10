@@ -144,6 +144,9 @@
 - [**Blueprint: A Toolchain for Highly-Reconfigurable Microservice Applications**](https://dl.acm.org/doi/10.1145/3600006.3613138), _SOSP '23_
 - [**MuCache: a General Framework for Caching in Microservice Graphs**](https://www.usenix.org/conference/nsdi24/presentation/zhang-haoran), _NSDI '24_
 - [**Autothrottle: A Practical Bi-Level Approach to Resource Management for SLO-Targeted Microservices**](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo), _NSDI '24_
+- [**TraceWeaver: Distributed Request Tracing for Microservices Without Application Modification**](https://dl.acm.org/doi/10.1145/3651890.3672254), _SIGCOMM '24_
+- [**TopFull: An Adaptive Top-Down Overload Control for SLO-Oriented Microservices**](https://dl.acm.org/doi/10.1145/3651890.3672253), __SIGCOMM '24_
+- [**Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture**](https://dl.acm.org/doi/10.1145/3651890.3672221), __SIGCOMM '24_
 
 ### Network Stack and RPC 
 - [**netmap: A Novel Framework for Fast Packet I/O**](https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo), _ATC '12_
