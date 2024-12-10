@@ -86,6 +86,7 @@
 - [**Automatic Kernel Offload Using BPF**](https://dl.acm.org/doi/10.1145/3593856.3595888), _HotOS '23_
 - [**EPF: Evil Packet Filter**](https://www.usenix.org/conference/atc23/presentation/jin), _ATC '23_
 - [**DINT: Fast In-Kernel Distributed Transactions with eBPF**](https://www.usenix.org/conference/nsdi24/presentation/zhou-yang), _NSDI '24_
+- [**FetchBPF: Customizable Prefetching Policies in Linux with eBPF**](https://www.usenix.org/conference/atc24/presentation/cao), _ATC '24_
 
 
 ### Transport Protocol
