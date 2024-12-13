@@ -82,11 +82,13 @@
 - [**Syrup: User-Defined Scheduling Across the Stack**](https://dl.acm.org/doi/pdf/10.1145/3477132.3483548), _SOSP '21_
 - [**LiteFlow: towards high-performance adaptive neural networks for kernel datapath**](https://dl.acm.org/doi/10.1145/3544216.3544229), _SIGCOMM '22_
 - [**XRP: In-Kernel Storage Functions with eBPF**](https://www.usenix.org/conference/osdi22/presentation/zhong), _OSDI '22_
+- [**Electrode: Accelerating Distributed Protocols with eBPF**](https://www.usenix.org/conference/nsdi23/presentation/zhou), _NSDI '23_
 - [**Tigger: A Database Proxy That Bounces With User-Bypass**](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf), _VLDB '23_
 - [**Automatic Kernel Offload Using BPF**](https://dl.acm.org/doi/10.1145/3593856.3595888), _HotOS '23_
 - [**EPF: Evil Packet Filter**](https://www.usenix.org/conference/atc23/presentation/jin), _ATC '23_
 - [**DINT: Fast In-Kernel Distributed Transactions with eBPF**](https://www.usenix.org/conference/nsdi24/presentation/zhou-yang), _NSDI '24_
 - [**FetchBPF: Customizable Prefetching Policies in Linux with eBPF**](https://www.usenix.org/conference/atc24/presentation/cao), _ATC '24_
+- [**eTran: Extensible Kernel Transport with eBPF**](), _NSDI '25_
 
 
 ### Transport Protocol
@@ -94,6 +96,8 @@
 - [**Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities**](https://dl.acm.org/doi/10.1145/3230543.3230564), _SIGCOMMM '18_
 - [**R2P2: Making RPCs first-class datacenter citizens**](https://www.usenix.org/conference/atc19/presentation/kogias-r2p2), _ATC '19_
 - [**TCP is Harmful to In-Network Computing: Designing a Message Transport Protocol (MTP)**](https://dl.acm.org/doi/10.1145/3484266.3487382), _HotNets '21_
+- [**Towards Domain-Specific Network Transport for Distributed DNN Training**](https://www.usenix.org/conference/nsdi24/presentation/wang-hao), _NSDI '24_
+- [**MTP: A Transport for In-Network Computing**](), _NSDI '25_
 
 
 ### Microservice and Service Mesh
