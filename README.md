@@ -128,6 +128,8 @@
 - [**Nightcore: Efficient and Scalable Serverless Computing for Latency-Sensitive, Interactive Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446701), _ASPLOS '21_
 - [**Sage: Practical and Scalable ML-Driven Performance Debugging in Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446700), _ASPLOS '21_
 - [**Sinan: ML-Based and QoS-Aware Resource Management for Cloud Microservices**](https://dl.acm.org/doi/pdf/10.1145/3445814.3446693), _ASPLOS '21_
+- [**Automatic Policy Generation for Inter-Service Access Control of Microservices**](https://www.usenix.org/conference/usenixsecurity21/presentation/li-xing), _Security '21_
+ - Static Analysis for invocation logic + abstraction for graph policy enforcement
 - [**Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis**](https://dl.acm.org/doi/pdf/10.1145/3472883.3487003), _SoCC '21_
 - [**SHOWAR: Right-Sizing And Efficient Scheduling of Microservices**](https://dl.acm.org/doi/abs/10.1145/3472883.3486999), _SoCC '21_
 - [**Service-Level Fault Injection Testing**](https://dl.acm.org/doi/abs/10.1145/3472883.3487005), _SoCC '21_
