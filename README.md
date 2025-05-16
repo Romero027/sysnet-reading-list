@@ -163,6 +163,10 @@
 - [**TopFull: An Adaptive Top-Down Overload Control for SLO-Oriented Microservices**](https://dl.acm.org/doi/10.1145/3651890.3672253), _SIGCOMM '24_
 - [**Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture**](https://dl.acm.org/doi/10.1145/3651890.3672221), _SIGCOMM '24_
 - [**Derm: SLA-aware Resource Management for Highly Dynamic Microservices**](https://ieeexplore.ieee.org/abstract/document/10609698), _ISCA '24_
+- [**Copper and Wire: Bridging Expressiveness and Performance for Service Mesh Policies**](https://dl.acm.org/doi/10.1145/3669940.3707257), _ASPLOS '25_
+- [**Embracing Imbalance: Dynamic Load Shifting among Microservice Containers in Shared Clusters**](https://dl.acm.org/doi/10.1145/3676641.3716255), _ASPLOS '25_
+- [**Rajomon: Decentralized and Coordinated Overload Control for Latency-Sensitive Microservices**](https://www.usenix.org/conference/nsdi25/presentation/xing), _NSDI '25_
+- [**High-level Programming for Application Networks**](https://www.usenix.org/conference/nsdi25/presentation/zhu), _NSDI '25_ 
 
 ### Network Stack and RPC 
 - [**netmap: A Novel Framework for Fast Packet I/O**](https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo), _ATC '12_
@@ -244,5 +248,6 @@
 - [**MigrOS: Transparent Live-Migration Support for Containerised RDMA Applications**](https://www.usenix.org/conference/atc21/presentation/planeta), _ATC '21_
 - [**Starlight: Fast Container Provisioning on the Edge and over the WAN**](https://www.usenix.org/conference/nsdi22/presentation/chen-jun-lin), _NSDI '22_
 - [**Transparent GPU Sharing in Container Clouds for Deep Learning Workloads**](https://www.usenix.org/conference/nsdi23/presentation/wu), _NSDI '23_
+- [**ONCache: A Cache-Based Low-Overhead Container Overlay Network**](https://www.usenix.org/conference/nsdi25/presentation/lin-shengkai), _NSDI '25_
 
 
